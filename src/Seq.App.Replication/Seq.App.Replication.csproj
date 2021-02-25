@@ -8,8 +8,8 @@
     <Authors>Datalust and Contributors</Authors>
     <PackageTags>seq-app</PackageTags>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageProjectUrl>https://github.com/datalust/seq-apps</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/datalust/seq-apps</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/datalust/seq-app-replication</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/datalust/seq-app-replication</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
     <TreatSpecificWarningsAsErrors />
